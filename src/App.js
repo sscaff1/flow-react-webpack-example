@@ -7,7 +7,7 @@ type Props = {
 };
 
 const App = ({ jobTitle }: Props) => (
-	<h1>Hello I'm a {jobTitle}</h1>
+	<h1>Hello I am a {jobTitle}</h1>
 );
 
 export default App;
